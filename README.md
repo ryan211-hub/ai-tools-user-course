@@ -82,3 +82,14 @@
 4. Week 4：可复用的 Spellbook AI 辅助开发工作流与最终验收记录。
 
 **下一动作**：先审查课程计划与学习安排，正式学习需另行启动。
+
+## 课程配置与进度
+
+- [ChatGPT 项目指令模板](docs/project-instructions.md) — 由用户手动粘贴到 ChatGPT 项目设置。
+- [学习与验收规范](docs/learning-rules.md)
+- [实践环境说明](docs/environment.md)
+- [学习进度（当前 0/20，未开课）](docs/progress.md)
+
+Notion：[课程计划](https://app.notion.com/p/40d19faa63d68169ac6cff8c3e8dc943) · [学习规范](https://app.notion.com/p/40d19faa63d68104972bf0239b6eaded) · [学习进度](https://app.notion.com/p/40d19faa63d68132b697d0e8601bf7ab) · [实践环境](https://app.notion.com/p/40d19faa63d6814084bade45d8ccea83) · [项目指令模板](https://app.notion.com/p/40d19faa63d6812aa36bfbe719b17646)
+
+> ChatGPT 项目指令与项目文件需要用户在项目界面自行添加；GitHub 与 Notion 不会自动双向同步。
